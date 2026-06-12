@@ -24,6 +24,7 @@ nav ul {
 }
 
 nav li {
+  margin: 0 15px;
   color: white;
   background-color: #333;
   padding: 12px 20px;
@@ -64,4 +65,9 @@ tfoot {
   border-top: 1px solid #ccc;
 }
 
+caption {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
   
